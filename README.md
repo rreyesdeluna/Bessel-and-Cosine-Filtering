@@ -27,7 +27,7 @@ Requirements:
   
 Instructions:
 
-  * Download and extract the folders from both folders: single_channel.zip and multi_channel.zip.
+  * Download and extract the files from both folders: single_channel.zip and multi_channel.zip.
   * Run programs in folders separately (single-cannel and multi-channel):
   * The script signal_data.py contain the signal(s) to be analyzed. Here you can add or modify the signal or signals for your study.
   * Calculate L using calc_Lb.py and calc_Lc.py
