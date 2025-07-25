@@ -2,7 +2,7 @@
 
 Authors:
 
-Rodrigo David Reyes de Luna, José Antonio de la O Serna, Alejandro Zamora-Mendez, and Mario R. Arrieta Paternina (@marioap7)
+Rodrigo David Reyes de Luna, José Antonio de la O Serna, Alejandro Zamora-Mendez, Mario R. Arrieta Paternina (@marioap7) and Antonino López Rios.
 
 The real-time system monitoring of electromechanical oscillations in power grids
 is essential to maintain operational control in an optimal state and to make the
